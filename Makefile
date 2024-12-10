@@ -1,11 +1,11 @@
 # Variables
 ASCIIDOCTOR_PDF = asciidoctor-pdf
 ASCIIDOCTOR_DIAGRAM = -r asciidoctor-diagram
-INPUT_FILE = ./report.adoc
+INPUT_FILE = src/report.adoc
 OUTPUT_FILE = output/report.pdf
 THEME_DIR = .
-THEME_NAME = report
-FONTS_DIR = font/FiraCode
+THEME_NAME = src/report
+FONTS_DIR = resources/font/FiraCode
 
 # Target to build the PDF
 pdf:
