@@ -75,7 +75,7 @@ Assicurati di avere i seguenti strumenti installati:
 
 Puoi personalizzare il documento modificando i file nella directory `src`. Per aggiungere immagini o font, salvali nella directory `resources` e aggiorna i riferimenti nei file Asciidoc.
 
-Per maggiori dettagli su come utilizzare Asciidoc, consulta la [documentazione ufficiale](https://asciidoctor.org/docs/).
+Per maggiori dettagli su come utilizzare Asciidoc, consulta la [documentazione ufficiale](https://docs.asciidoctor.org/).
 
 ## Contributi
 
