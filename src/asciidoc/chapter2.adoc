@@ -1,0 +1,30 @@
+== Giovanni
+
+La storia della tigre inizia con un viaggio in Africa.
+La tigre è un animale selvaggio e pericoloso.
+Quel giorno la tigre era molto affamata.
+Guardò la finestra e disse "Voglio mangiare qualcosa".
+Quello che fece più tardi fu ?
+
+[source, java]
+----
+System.out.println("Hello, World!");
+----
+
+Il gatto mangia il topo.
+
+
+link:https://www.coinmarketcap.com[Example Website]
+
+NOTE: This is a note.
+
+[quote, Author, Source]
+____
+This is a blockquote.
+____
+
+*Bold text*
+_Italic text_
+`Monospaced text`
+
+This is a sentence with a footnote.footnote:[This is the footnote text.]

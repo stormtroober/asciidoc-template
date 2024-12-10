@@ -1,0 +1,25 @@
+== Mario
+
+=== Chapter 1: Giovanni
+==== Section 1.1: Italia
+
+La storia di Mario e Giovanni inizia con un viaggio in Italia.
+Il primo giorno Roma, con il Colosseo e la Fontana di Trevi. Poi Milano, con il Duomo e la Galleria Vittorio Emanuele II. Infine Venezia, con la Basilica di San Marco e il Ponte di Rialto. Quel giorno Mario era molto felice. Guardò la finestra e disse "Voglio mangiare qualcosa".
+
+Vede una Tigre, e si spaventa.
+La tigre si avvicina e gli chiede "Cosa fai qui?"
+
+Mario risponde "Sono in vacanza con il mio amico Giovanni".
+
+* Asciugamano
+* Bussola
+** Snack
+** Patè di tonno
+
+[cols="3,2,5"]
+|===
+| Nome | Quantità | Descrizione
+| Asciugamano | 1 | Asciugamano morbido in cotone
+| Bussola | 1 | Bussola da campo con grado di precisione 0.5°
+| Patè di tonno | 3 | Vasetti di patè di tonno al naturale
+|===

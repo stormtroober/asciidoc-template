@@ -1,0 +1,23 @@
+= Report
+:toc:
+:toclevels: 2
+:sectnums:
+:doctype: book
+:pdf-theme: report-theme.yml
+:source-highlighter: rouge
+:rouge-style: github
+:xrefstyle: short
+:toc: macro
+
+include::asciidoc/header.adoc[]
+
+include::asciidoc/introduction.adoc[]
+
+include::asciidoc/chapter1.adoc[]
+
+include::asciidoc/chapter2.adoc[]
+
+include::asciidoc/conclusion.adoc[]
+
+image::{docdir}/../resources/png/admin_storytelling.png[]
+

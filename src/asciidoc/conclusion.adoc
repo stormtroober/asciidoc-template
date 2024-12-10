@@ -1,0 +1,10 @@
+== Conclusion
+
+This is the conclusion of the document.
+La storia di Mario e Giovanni è finita.
+Ora Mario è felice e Giovanni è triste.
+Cosa succederà ora?
+Quale sarà il prossimo capitolo?
+Il dinosauro e Mario sono amici?
+
+image::{docdir}/../resources/png/admin_storytelling.png[]

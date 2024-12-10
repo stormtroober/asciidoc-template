@@ -1,0 +1,12 @@
+Università di Bologna · Campus di Cesena
+
+Corso di Laurea Magistrale in Ingegneria e Scienze Informatiche
+
+
+'''
+
+|=======
+|[.normalize]#Giacomo Ragni# |[.normalize]#000518425218# |[.normalize]#jack#
+|=======
+
+toc::[]
