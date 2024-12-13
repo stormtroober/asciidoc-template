@@ -1,4 +1,4 @@
-[![🇮🇹 ITA]](#asciidoc-pdf-template-ita) 
+[![🇮🇹 ITA](🇮🇹 ITA)](#asciidoc-pdf-template-ita) 
 [![🇬🇧 ENG](https://via.placeholder.com/100x30.png?text=ENG)](#asciidoc-pdf-template-eng)
 
 ---
