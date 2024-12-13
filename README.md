@@ -90,10 +90,6 @@ Per maggiori dettagli su come utilizzare Asciidoc, consulta la [documentazione u
 
 Se desideri contribuire al progetto, sentiti libero di aprire una pull request o di segnalare problemi nella sezione [Issues](https://github.com/stormtroober/asciidoc-template/issues).
 
-## Licenza
-
-Questo progetto è distribuito sotto la licenza [MIT](LICENSE).
-
 
 # Asciidoc PDF Template [ENG]
 
@@ -177,10 +173,6 @@ For more details on using Asciidoc, refer to the [official documentation](https:
 ## Contributions
 
 If you wish to contribute to the project, feel free to open a pull request or report issues in the [Issues](https://github.com/stormtroober/asciidoc-template/issues) section.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 
 
