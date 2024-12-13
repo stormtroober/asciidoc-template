@@ -1,5 +1,6 @@
-[![🇮🇹 ITA](ITA)](#asciidoc-pdf-template-ita) 
-[![🇬🇧 ENG](ENG)](#asciidoc-pdf-template-eng)
+<a href="#asciidoc-pdf-template-ita" style="font-size: 30px; padding: 10px; background-color: red; color: white; text-decoration: none;">🇮🇹 ITA</a> 
+<a href="#asciidoc-pdf-template-eng" style="font-size: 30px; padding: 10px; background-color: green; color: white; text-decoration: none;">🇬🇧 ENG</a>
+
 
 ---
 
