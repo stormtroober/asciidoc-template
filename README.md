@@ -1,3 +1,12 @@
+# Language Selector
+
+Select your preferred language:
+
+- [Italiano](#asciidoc-pdf-template-ita)
+- [English](#asciidoc-pdf-template-eng)
+
+---
+
 # Asciidoc PDF Template [ITA]
 
 Questo repository contiene un template per la generazione di documenti PDF utilizzando Asciidoc. Il template include esempi di formattazione, collegamenti a risorse (font, immagini, ecc.) e uno script `Makefile` per semplificare il processo di compilazione.
