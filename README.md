@@ -1,9 +1,5 @@
-# Language Selector
-
-Select your preferred language:
-
-- [Italiano](#asciidoc-pdf-template-ita)
-- [English](#asciidoc-pdf-template-eng)
+[![🇮🇹 ITA](https://via.placeholder.com/100x30.png?text=ITA)](#asciidoc-pdf-template-ita) 
+[![🇬🇧 ENG](https://via.placeholder.com/100x30.png?text=ENG)](#asciidoc-pdf-template-eng)
 
 ---
 
