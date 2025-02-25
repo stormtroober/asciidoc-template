@@ -1,11 +1,11 @@
-[🇮🇹 ITA](#asciidoc-pdf-template-ita)  &nbsp;&nbsp;&nbsp;&nbsp; [🇬🇧 ENG](#asciidoc-pdf-template-eng)
+[🇮🇹 ITA](#asciidoc-template-ita)  &nbsp;&nbsp;&nbsp;&nbsp; [🇬🇧 ENG](#asciidoc-template-eng)
 
 
 ---
 
-# Asciidoc PDF Template [ITA]
+# Asciidoc Template [ITA]
 
-Questo repository contiene un template per la generazione di documenti PDF utilizzando Asciidoc. Il template include esempi di formattazione, collegamenti a risorse (font, immagini, ecc.) e uno script `Makefile` per semplificare il processo di compilazione.
+Questo repository contiene un template per la generazione di documenti PDF e HTML utilizzando Asciidoc. Il template include esempi di formattazione, collegamenti a risorse (font, immagini, ecc.) e uno script `Makefile` per semplificare il processo di compilazione.
 
 ## Caratteristiche
 
@@ -87,7 +87,7 @@ Per maggiori dettagli su come utilizzare Asciidoc, consulta la [documentazione u
 Se desideri contribuire al progetto, sentiti libero di aprire una pull request o di segnalare problemi nella sezione [Issues](https://github.com/stormtroober/asciidoc-template/issues).
 
 
-# Asciidoc PDF Template [ENG]
+# Asciidoc Template [ENG]
 
 This repository contains a template for generating PDF documents using Asciidoc. The template includes formatting examples, resource linking (fonts, images, etc.), and a `Makefile` script to simplify the build process.
 
