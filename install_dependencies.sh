@@ -21,6 +21,6 @@ install_packages() {
 install_packages
 
 # Install asciidoctor-pdf and asciidoctor-diagram gems
-sudo gem install asciidoctor-pdf asciidoctor-diagram
+sudo gem install asciidoctor-pdf asciidoctor-diagram rouge
 
 echo "Installation complete. You can now use asciidoctor-pdf and asciidoctor-diagram."
